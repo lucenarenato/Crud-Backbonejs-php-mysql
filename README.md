@@ -30,7 +30,7 @@ $ mydata
 	    var app = novo APP.crudRouter ();
 	</ script>
 ```
-
+<p align="center"><img src="crudbackbonejskautube.png"></p>
 - Fonte:
 - http://kautube.com/other/crud-with-backbone-js-and-php-mysql/
 
